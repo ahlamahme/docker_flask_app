@@ -1,7 +1,7 @@
 # docker_flask_app
 
 Dockerfile contents <br>
-•  ! FROM defines the base image used to start the build process <br>
+• FROM defines the base image used to start the build process <br>
 • MAINTAINER defines a full name and email address of the image creator <br>
 • COPY copies one or more files from the Docker host into the Docker image <br>
 • EXPOSE exposes a specific port to enable networking between the container and the outside 
